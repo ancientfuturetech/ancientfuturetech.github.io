@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ancient Future Tech</title>
-    <link>http://ancientfuturetech.github.io/</link>
-    <description>Recent content on Ancient Future Tech</description>
+    <title>ancientfuturetech</title>
+    <link>https://ancientfuturetech.github.io/</link>
+    <description>Recent content on ancientfuturetech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Dec 2021 01:59:43 +0530</lastBuildDate>
     
-	<atom:link href="http://ancientfuturetech.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ancientfuturetech.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://ancientfuturetech.github.io/posts/my-first-post/</link>
-      <pubDate>Wed, 01 Dec 2021 01:59:43 +0530</pubDate>
-      
-      <guid>http://ancientfuturetech.github.io/posts/my-first-post/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
